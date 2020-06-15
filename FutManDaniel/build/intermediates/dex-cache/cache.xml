@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/daniel/.android/build-cache/ac7adae1bcc8b5156133c549958b8f974343613f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/home/daniel/TP_CM/FutManDaniel/app/build/intermediates/pre-dexed/release/classes_623f2d230b8e2816ba2696327c9bfd4b698816e5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/daniel/TP_CM/FutManDaniel/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="becf340694898e294bebbb6f7aae5cc0cf6e68ab">
+        <dex dex="/home/daniel/TP_CM/FutManDaniel/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_444b834828beb7edf7c435d8613d7ed2eada2f50/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniel/.android/build-cache/dc1687e4f41114aa170716fee072cf349ddc39f7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/home/daniel/TP_CM/FutManDaniel/app/build/intermediates/pre-dexed/release/classes_fc9d1159d366885d39a68fe2a17c041a7024f92e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/daniel/TP_CM/FutManDaniel/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/daniel/TP_CM/FutManDaniel/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4f601f91446494a75e68b1e061e0162c3baa6724/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniel/.android/build-cache/1b12f9666a64330ba60d13363f47ea8f0b591619/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/daniel/TP_CM/FutManDaniel/app/build/intermediates/pre-dexed/release/classes_4146a79de6958c8d1766cef6068e3e6ffa2e3f6f.jar" />
+    </item>
+
+</items>
